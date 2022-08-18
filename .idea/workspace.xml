@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b0bef38-28f3-4a7e-81f2-7e14b880335c" name="Changes" comment="" />
+    <list default="true" id="7b0bef38-28f3-4a7e-81f2-7e14b880335c" name="Changes" comment="First Commit on&#10;18-08-2022 (12:02PM)">
+      <change afterPath="$PROJECT_DIR$/Sample-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +17,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2D9eg2NzZPfwSXB3s5SD42OnzFY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -102,7 +109,30 @@
       <option name="presentableId" value="Default" />
       <updated>1660115834851</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit on&#10;18-08-2022 (12:02PM)">
+      <created>1660804419242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660804419242</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit on&#10;18-08-2022 (12:02PM)" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit on&#10;18-08-2022 (12:02PM)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
